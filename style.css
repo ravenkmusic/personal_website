@@ -1,9 +1,22 @@
 body {
-    font-family: Arial, Helvetica, sans-serif
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
 }
 
 .navigation-bar{
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: center; 
+}
+
+.description {
+    display: flex;
+    justify-content: left;
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.name {
+    padding: 10px 0px 10px 0px;
 }
