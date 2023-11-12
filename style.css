@@ -16,7 +16,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%;}
+    max-width: 30%;
+}
 .navigation-bar{   
     align-items: center;
     padding-top: 10px;
@@ -33,13 +34,14 @@ a:hover {
 }
 
 .mission-statement {
-    padding: 10px 0px 10px 0px;
+    padding: 5px 0px 5px 0px;
     font-size: 20px;
+    text-shadow: 2px 2px rgb(255, 255, 255);
 }
 
 .quote {
     padding: 50px 0px 50px 0px;
-    font-size: 60px;
+    font-size: 30px;
     text-shadow: 5px 5px rgb(255, 255, 255);
 
 }
