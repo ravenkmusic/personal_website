@@ -2,12 +2,15 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 20px;
     padding-right: 20px;
+    background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
+    background-repeat: no-repeat;
 }
 
 .navigation-bar{
     display: flex;
     justify-content: center;
-    align-items: center; 
+    align-items: center;
+    padding-top: 10px;
 }
 
 .description {
@@ -15,6 +18,14 @@ body {
     justify-content: left;
     font-style: italic;
     font-family: Arial, Helvetica, sans-serif;
+}
+
+.mission-statement {
+    display: flex;
+    justify-content: center;
+    padding: 10px 0px 10px 0px;
+    color: darkgrey;
+    font-size: 20px;
 }
 
 .name {
