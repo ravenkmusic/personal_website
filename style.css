@@ -2,6 +2,7 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 20px;
     padding-right: 20px;
+    color: rgb(122, 122, 122);
     background: radial-gradient(circle, #fff1eb 0%, #ace0f9 100%);
 }
 
@@ -16,15 +17,17 @@ body {
     display: flex;
     justify-content: left;
     font-style: italic;
-    color: rgb(122, 122, 122);
     font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    color: rgb(189, 188, 188);
 }
 
 .mission-statement {
     display: flex;
     justify-content: center;
     padding: 10px 0px 10px 0px;
-    color: rgb(122, 122, 122);
     font-size: 20px;
 }
 
