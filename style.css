@@ -1,0 +1,51 @@
+body {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    padding-left: 20px;
+    padding-right: 20px;
+    color: rgb(122, 122, 122);
+    background: radial-gradient(circle, #fff1eb 0%, #ace0f9 100%);
+}
+
+div {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+}
+
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 30%;
+}
+.navigation-bar{   
+    align-items: center;
+    padding-top: 10px;
+    padding-bottom: 10px;
+}
+
+.description {
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+a:hover {
+    color: rgb(189, 188, 188);
+}
+
+.mission-statement {
+    padding: 5px 0px 5px 0px;
+    font-size: 20px;
+    text-shadow: 2px 2px rgb(255, 255, 255);
+}
+
+.quote {
+    padding: 50px 0px 50px 0px;
+    font-size: 30px;
+    text-shadow: 5px 5px rgb(255, 255, 255);
+
+}
+.name {
+    padding: 10px 0px 10px 0px;
+    color: rgb(68, 68, 68);
+}
