@@ -45,6 +45,13 @@ a:hover {
     text-shadow: 5px 5px rgb(255, 255, 255);
 
 }
+
+.studio {
+    float: right;
+    margin-left: 5px;
+    max-width: 15%;
+}
+
 .name {
     padding: 10px 0px 10px 0px;
     color: rgb(68, 68, 68);
