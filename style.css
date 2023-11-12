@@ -2,8 +2,7 @@ body {
     font-family:Verdana, Geneva, Tahoma, sans-serif;
     padding-left: 20px;
     padding-right: 20px;
-    background: linear-gradient(to top, #fff1eb 0%, #ace0f9 100%);
-    background-repeat: no-repeat;
+    background: radial-gradient(circle, #fff1eb 0%, #ace0f9 100%);
 }
 
 .navigation-bar{
