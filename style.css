@@ -12,6 +12,11 @@ div {
     text-align: center;
 }
 
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;}
 .navigation-bar{   
     align-items: center;
     padding-top: 10px;
