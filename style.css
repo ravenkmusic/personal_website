@@ -52,6 +52,12 @@ a:hover {
     max-width: 15%;
 }
 
+.baltimore {
+    float: left;
+    margin-right: 5px;
+    max-width: 20%;
+}
+
 .name {
     padding: 10px 0px 10px 0px;
     color: rgb(68, 68, 68);
