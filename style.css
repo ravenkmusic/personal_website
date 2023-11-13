@@ -46,6 +46,10 @@ a:hover {
 
 }
 
+.tech-skills, .hobbies {
+    font-size: 20px;
+}
+
 .studio {
     float: right;
     margin-left: 5px;
