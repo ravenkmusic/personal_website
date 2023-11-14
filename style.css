@@ -69,6 +69,11 @@ a:hover {
     max-width: 20%;
 }
 
+.app, 
+.dictionary-description, 
+.weather-description {
+    text-align: center;
+}
 
 .name {
     padding: 10px 0px 10px 0px;
