@@ -56,15 +56,23 @@ a:hover {
     max-width: 15%;
 }
 
+
+.heading {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 20px;
+    text-shadow: 2px 2px rgb(255, 255, 255);
+}
+
 .baltimore {
     float: left;
     margin-right: 5px;
     max-width: 20%;
 }
 
-heading {
-    font-family: Arial, Helvetica, sans-serif;
-    font-size: 20px;
+.app, 
+.dictionary-description, 
+.weather-description {
+    text-align: center;
 }
 
 .name {
